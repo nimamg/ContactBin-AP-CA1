@@ -1,4 +1,4 @@
-# UTAP-S97-CA1
+# ContactBin
 University of Tehran Advanced Programming course, Computer Assignment #1
 
 A simple C++ project, this assignment was designed to teach us the basics of C++.
